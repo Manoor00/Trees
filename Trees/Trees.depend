@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522775556 source:d:\development\c++ pojects\trees\main.cpp
+	<iostream>
+	<Tree.h>
+
+1522749469 d:\development\c++ pojects\trees\include\tree.h
+	<iostream>
+
+1522775714 source:d:\development\c++ pojects\trees\src\tree.cpp
+	"Tree.h"
+
