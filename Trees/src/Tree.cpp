@@ -172,7 +172,7 @@ void Tree::deleteNode(int data)
             // we are deleting the l child, so assign the parent node l child to inOrder successor
             else
             {
-                cout<<"23"<<endl;
+                cout<<"24"<<endl;
                 nodeToBeDeletedParent->lLink = nodeWhichWillReplace;
             }
         }
