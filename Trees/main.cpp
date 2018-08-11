@@ -8,7 +8,7 @@ int main()
     cout << "Hello world!" << endl;
     Tree t;
 
-    t.insertNode(6);
+    t.insertNode(7);
     t.insertNode(2);
     t.insertNode(18);
     t.insertNode(1);
